@@ -1,11 +1,11 @@
-### Hi there 👋
-
 <!--
+### Hi I am Yan CHEN 👋
+
 **YanCHEN-fr/YanCHEN-fr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working as AI Reasearcher at Huawei Noah's Ark Lab.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 👋 I'm Yan CHEN.
+- 🌱 I’m currently working as AI Researcher at Huawei Noah's Ark Lab.
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanCHEN-fr&show_icons=true)
